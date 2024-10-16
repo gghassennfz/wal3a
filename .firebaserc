@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "wal3a-ecommerce"
-  }
+    "default": "ecommerce-7db2b",
+    "staging": "ecommerce-7db2b"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
